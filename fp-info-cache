@@ -1,4 +1,4 @@
-23036696903078790
+23038464574389619
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -66772,6 +66772,13 @@ IR Receiver Vishay TSOP-xxxx MOLD
 0
 3
 3
+OptoDevice_slot
+Everlight_ITR9702
+Fork-type photointerrupter (https://www.everlighteurope.com/custom/files/datasheets/DRX-0000314.pdf)
+Photointerrupter infrared LED
+0
+4
+4
 Oscillator
 Oscillator_DIP-8
 Oscillator, DIP8,http://cdn-reichelt.de/documents/datenblatt/B400/OSZI.pdf
