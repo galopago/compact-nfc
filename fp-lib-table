@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "OptoDevice_slot")(type "KiCad")(uri "${KIPRJMOD}/library/OptoDevice_slot.pretty")(options "")(descr ""))
   (lib (name "Inductor_PCB")(type "KiCad")(uri "${KIPRJMOD}/library/Inductor_PCB.pretty")(options "")(descr ""))
+  (lib (name "LED_SMD_REVERSE_MOUNT")(type "KiCad")(uri "${KIPRJMOD}/library/LED_SMD_REVERSE_MOUNT.pretty")(options "")(descr ""))
 )
