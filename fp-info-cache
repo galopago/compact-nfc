@@ -1,4 +1,4 @@
-23040235308756246
+23042004976993561
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -56830,8 +56830,8 @@ L_NFC_PCB
 Inductor, NFC, PCB
 Inductor NFC PCB
 0
-2
-2
+7
+5
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -62845,6 +62845,13 @@ LED
 0
 2
 2
+LED_SMD_REVERSE_MOUNT
+LED_RGB_SMD_6028_2.8x3.5mm_Square
+Reverse-mounted 6028 RGB LED
+LED RGB SMD
+0
+4
+4
 LED_THT
 LED_BL-FL7680RGB
 'Piranha' RGB LED, through hole, common anode, 7.62x7.62mm, BGRA pin order, https://cdn-shop.adafruit.com/datasheets/BL-FL7680RGB.pdf
